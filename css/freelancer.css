@@ -179,8 +179,16 @@ section .intro-text .skills {
     border: 0;
 }
 
+#garretVideo {
+  padding: 100px 0;
+}
+
+.quoteBoxes {
+  padding:100px;
+}
+
 section {
-    padding: 100px 0;
+
 }
 
 section h2 {
