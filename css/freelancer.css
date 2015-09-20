@@ -190,6 +190,10 @@ section .intro-text .skills {
   padding-bottom: 25px;
 }
 
+.margin-quote {
+  margin:30px;
+}
+
 section {
 
 }
