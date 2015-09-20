@@ -184,7 +184,10 @@ section .intro-text .skills {
 }
 
 .quoteBoxes {
-  padding:100px;
+  padding-top: 100px;
+  padding-right: :25px;
+  padding-left: 25px;
+  padding-bottom: 25px;
 }
 
 section {
