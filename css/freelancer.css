@@ -36,6 +36,11 @@ h6 {
     font-weight: 700;
 }
 
+
+h4 {
+    font-size: 1.25em;
+}
+
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -77,6 +82,10 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
+}
+
+.quoteTitleBox {
+  padding-bottom: 40px;
 }
 
 section {
