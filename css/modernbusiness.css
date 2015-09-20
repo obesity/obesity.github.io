@@ -26,7 +26,8 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 50%;
+    padding-top: 200px;
+    height: 100%;
 }
 
 header.carousel .item,
@@ -43,9 +44,6 @@ header.carousel .fill {
     background-size: cover;
 }
 
-#myCarousel {
-  max-height: 300px;
-}
 
 /* 404 Page Styles */
 
